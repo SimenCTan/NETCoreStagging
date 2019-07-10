@@ -1,0 +1,34 @@
+2018-10-09 17:19:50.2124 Info Message Template Auto Format enabled
+2018-10-09 17:19:50.2824 Info Adding target File Target[allfile]
+2018-10-09 17:19:50.2824 Info Adding target File Target[ownFile-web]
+2018-10-09 17:19:50.2954 Info Configured from an XML element in E:\PDASystemNETCore重构\KYE-PDA.API.V0.1.0.1810091713\src\KYExpress.PDA.Hosting\bin\Debug\netcoreapp2.1\NLog.config...
+2018-10-09 17:19:50.3084 Info Found 55 configuration items
+2018-10-09 17:19:50.3284 Info Configuration initialized.
+2018-10-09 17:19:50.3284 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.5.7842. Product version: 4.5.5.
+2018-10-09 17:56:07.0704 Info Shutting down logging...
+2018-10-09 17:56:07.0964 Info Logger has been shut down.
+2018-10-10 10:45:28.7876 Info Message Template Auto Format enabled
+2018-10-10 10:45:28.8636 Info Adding target File Target[allfile]
+2018-10-10 10:45:28.8636 Info Adding target File Target[ownFile-web]
+2018-10-10 10:45:28.8756 Info Configured from an XML element in E:\PDASystemNETCore重构\KYE-PDA.API.V0.1.0.1810091713\src\KYExpress.PDA.Hosting\bin\Debug\netcoreapp2.1\NLog.config...
+2018-10-10 10:45:28.8756 Info Found 55 configuration items
+2018-10-10 10:45:28.9066 Info Configuration initialized.
+2018-10-10 10:45:28.9066 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.5.7842. Product version: 4.5.5.
+2018-11-07 10:10:15.0126 Info Message Template Auto Format enabled
+2018-11-07 10:10:15.0786 Info Adding target File Target[allfile]
+2018-11-07 10:10:15.0786 Info Adding target File Target[ownFile-web]
+2018-11-07 10:10:15.0906 Info Configured from an XML element in E:\PDASystemNETCore重构\KYPDAApi\src\KYExpress.PDA.Hosting\bin\Debug\netcoreapp2.1\NLog.config...
+2018-11-07 10:10:15.0906 Info Found 55 configuration items
+2018-11-07 10:10:15.1226 Info Configuration initialized.
+2018-11-07 10:10:15.1226 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.5.7842. Product version: 4.5.5.
+2018-11-07 10:10:27.4516 Info Shutting down logging...
+2018-11-07 10:10:27.4776 Info Logger has been shut down.
+2018-11-07 10:19:27.5456 Info Message Template Auto Format enabled
+2018-11-07 10:19:27.6076 Info Adding target File Target[allfile]
+2018-11-07 10:19:27.6076 Info Adding target File Target[ownFile-web]
+2018-11-07 10:19:27.6206 Info Configured from an XML element in E:\PDASystemNETCore重构\KYPDAApi\src\KYExpress.PDA.Hosting\bin\Debug\netcoreapp2.1\NLog.config...
+2018-11-07 10:19:27.6316 Info Found 55 configuration items
+2018-11-07 10:19:27.6506 Info Configuration initialized.
+2018-11-07 10:19:27.6506 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.5.7842. Product version: 4.5.5.
+2018-11-07 10:37:09.0176 Info Shutting down logging...
+2018-11-07 10:37:09.0406 Info Logger has been shut down.
